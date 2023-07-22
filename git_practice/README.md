@@ -8,6 +8,8 @@
 ## What is git?
 Version control is important in coding. It operates similarly to version history in a Google Doc. With git version control, you can revert to a previous version that was working. Git also allows you to code in groups well while tracking all changes.
 
+GitHub is a web-based implementation of git that provides cloud storage for git projects (called repositories or repos). This cloud storage is what allows multiple people to access the same repository.
+
 Git is at its foundation, very simple, yet can quickly become very complicated. 
 
 -------------------------------
