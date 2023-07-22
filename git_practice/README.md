@@ -1,6 +1,8 @@
 ## Git Practice
 
 ### Goals:
+1. Use an ssh key to connect a personal computer git to Github
+2. Contribute to a Github repository
 
 -------------------------------
 ## What is git?
