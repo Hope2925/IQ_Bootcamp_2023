@@ -36,6 +36,12 @@ An example activity to set up Git/Github for your computer and to understand the
 - If you and another person are working on the same file and neither of you has the other person's edits already incorporated, Github will react in two ways when you try to push:
      1. It will throw a fit and make things super complicated according to its warnings. In that case, it is usually easiest to simply have one person incorporate the edits of another person and repush with all edits together. This is obviously not the best but is the simplest.
      2. It will ask that you address the mixups via a pull request- basically you'd just need to manually approve or delete the edits Github is confused about. These pull requests can be accessed at the header portion of a Github repository <img width="526" alt="image" src="https://github.com/Hope2925/IQ_Bootcamp_2023/assets/90975536/e6c77047-5774-4f57-8706-bea9a0bd4eed">
-
 ### What do I do if I want to remove a file from the repository?
 - Type `git rm <file>` and then do git commit & push as usual
+### How do I check I'm connected to the correct remote branch?
+- Type `git remove -v`
+### What are the key commands that allow me to interact with branches?
+- Create a new branch with `git branch <branch_name>`
+- Switch to a branch with `git checkout <branch_name>`
+- Delete a branch with `git branch -d <branch_name>`
+- Make sure you are on the right branch!!! You can do this by seeing which of your branches is starred after typing `git branch`
