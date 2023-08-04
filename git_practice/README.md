@@ -18,6 +18,8 @@ An example activity to set up Git/Github for your computer and to understand the
 
 -------------------------------
 ## Resources
+- ACTIVITY.md goes through example usage of Git and how to set up a personal access token
+- The [slides](https://docs.google.com/presentation/d/1fjXRARf5HYMBF3BV8sCTPXUS_DS6Yym-zXTpo1g0IqQ/edit?usp=sharing) provided provide some helpful visuals
 - Git & GitHub Crash Course for Beginners [Video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - GitHub desktop [Video](https://youtu.be/iv8rSLsi1xo) (a tool that might make things easier if you prefer to use an app)
 -------------------------------
