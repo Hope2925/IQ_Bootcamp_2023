@@ -1,8 +1,9 @@
 ## Git Practice
 
 ### Goals:
-1. Use a personal access token to connect a personal computer git to Github
-2. Contribute to a Github repository
+1. Understand what Git & Github are and their usefulness
+2. Use a personal access token to connect a personal computer git to Github
+3. Contribute to a Github repository
 
 -------------------------------
 ## What is git?
