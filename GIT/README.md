@@ -41,7 +41,7 @@ An example activity to set up Git/Github for your computer and to understand the
 ### What do I do if I want to remove a file from the repository?
 - Type `git rm <file>` and then do git commit & push as usual
 ### How do I check I'm connected to the correct remote branch?
-- Type `git remove -v`
+- Type `git remote -v`
 ### What are the key commands that allow me to interact with branches?
 - Create a new branch with `git branch <branch_name>`
 - Switch to a branch with `git checkout <branch_name>`
