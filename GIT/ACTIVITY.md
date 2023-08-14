@@ -6,7 +6,7 @@
     - This 'downloads' it onto your personal machine. The term clone is used because it should be identical.
     1. Click on the green button that says “<> Code”. Click the https version to use a personal access token and the ssh version to use an ssh key.
     2. Go where you'd like to "clone" the repository on your terminal. For example, if I want the folder to be in my documents folder, I'd go there (*hint* use `cd`)
-    3. Use `git clone <https or ssh link>` to clone it. Ensure it's there by typing `ls`
+    3. Use `git clone <https or ssh link>` to clone it. In this activity, we'll want to use the https link. After cloning it, ensure the repository is in your folder by typing `ls`.
 3. If someone has added a change that you want to download (as Hope just did in the demo), you have to "pull" it from the remote version. You can do this by being anywhere *in the repository on your terminal* and type `git pull`
     - It's recommended you do this at the start and end of each sit-down/interaction with the repository since there might be changes.
 4. What if you want to add something and save it to the remote?
