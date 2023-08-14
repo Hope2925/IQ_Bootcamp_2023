@@ -17,7 +17,7 @@
 added.
     5. Once you're ready for everything to be fully "sent" or "pushed" to the remote repository, type `git push`.
   
- 5. Are you getting an error indicating you need some kind of password, token, or key? That just means you need to tell Github that your local machine is safe, and give it a 'key' through which it can identify you:
+ 5. Are you getting an error indicating you need some kind of password, token, or key? That just means you need to tell Github that your local machine is safe, and give it a 'key' through which it can identify you. We will be using a Personal Access Token today although there is another common method described later. The instructions for making a PAT on Github is [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) and descriptions on all authentication options for Github are [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github). A summary of the PAT instructions is below:
     1. Go to GitHub>Settings>Developer Settngs>Personal Access Tokens>Tokens (classic)>Generate new token (classic)
     2. Name the token whatever you'd like to name it
     3. You can choose when you'd like it to expire and the scopes defining the access of the token. If you're confident, you can just select all (although the repo will be most applicable)

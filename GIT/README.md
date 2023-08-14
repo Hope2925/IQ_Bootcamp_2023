@@ -1,8 +1,9 @@
 ## Git Practice
 
 ### Goals:
-1. Use a personal access token to connect a personal computer git to Github
-2. Contribute to a Github repository
+1. Understand what Git & Github are and their usefulness
+2. Use a personal access token to connect a personal computer git to Github
+3. Contribute to a Github repository
 
 -------------------------------
 ## What is git?
@@ -41,7 +42,7 @@ An example activity to set up Git/Github for your computer and to understand the
 ### What do I do if I want to remove a file from the repository?
 - Type `git rm <file>` and then do git commit & push as usual
 ### How do I check I'm connected to the correct remote branch?
-- Type `git remove -v`
+- Type `git remote -v`
 ### What are the key commands that allow me to interact with branches?
 - Create a new branch with `git branch <branch_name>`
 - Switch to a branch with `git checkout <branch_name>`
