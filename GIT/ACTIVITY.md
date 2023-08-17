@@ -1,7 +1,7 @@
 ### Connecting Git & Github Demo
 
 1. Open this Github repository on Github: 
-    - In general, you'd be able to use an already created one or create one on Github first.
+    - In general, you'd be able to use an already created one on your PC (e.g. using mkdir) or create one on Github first.
 2. **Clone** the repository onto your local machine
     - This 'downloads' it onto your personal machine. The term clone is used because it should be identical.
     1. Click on the green button that says “<> Code”. Click the https version to use a personal access token and the ssh version to use an ssh key.
