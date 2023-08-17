@@ -1,6 +1,8 @@
 ### How/Why can I use a computer without a graphical interface?
 Graphical interfaces (like Finder for Mac or Files for Windows) offer a user-friendly experience, while working from the terminal allows a user more complete control over the computer. You do this from the command line using **Linux/Unix commands**. Since the terminal does not provide things like Microsoft word to edit and search files, we instead use a tool called **Vim**.
 
+**DO NOT WORRY IF ALL THE WORDS BELOW AREN'T FAMILIAR. THEY ARE MEANT AS REFERENCES THAT CAN BE APPLIED AT DIFFERENT STAGES IN YOUR COMPUTATIONAL JOURNEY**
+
 ### Cheat Sheets
 Terminal commands:
 - Common commands found [here](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
