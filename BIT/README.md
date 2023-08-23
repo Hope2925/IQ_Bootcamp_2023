@@ -1,7 +1,10 @@
 # BioFrontiers IT
-
 BIT is the superhero team that runs Fiji, the supercomputer Cluster resource, among many other things. Below are some key tips to help navigate FIJI w/ help from BIT. I can assure you from personal experience that they are all extremely nice and very hardworking. You never need to doubt that they are doing their best. :) 
 
+## Printing
+- Look [here](https://bit.colorado.edu/desktop-services/printing/building-printers/) to learn how to work with building printers
+- If you're still confused, fill out a ticket with the instructions below! 
+  
 ## 1. What do I do if I have a question about how to use Fiji?
 1. Look at the Fiji User Guides found on the BIT website [here](https://bit.colorado.edu/biofrontiers-computing/fiji/). They include the following as of July 22, 2023:
 	- Fiji User Guide: General instructions
