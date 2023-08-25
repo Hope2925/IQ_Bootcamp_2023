@@ -43,3 +43,6 @@ BIT is the superhero team that runs Fiji, the supercomputer Cluster resource, am
 	- Intro to Git
 	- How to make workflows and efficient file organization
 	- How to work with sequencing data
+
+ ## 5. What if I want to talk to someone in person?
+ If you really want to just knock on a door, D222 will often have BIT people and D316 is Matt’s office, although he’s often running around. Ticket is still best approach and just say you want to chat in-person there!
